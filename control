@@ -1,0 +1,9 @@
+Package: me.salax.nosoundcloudcomments
+Name: NoSoundCloudComments
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes SoundCloud comments.
+Maintainer: Chris Bailey
+Author: Chris Bailey
+Section: Tweaks
